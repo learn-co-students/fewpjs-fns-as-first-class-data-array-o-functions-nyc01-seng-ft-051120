@@ -39,7 +39,6 @@ function exerciseDog(dogName, dogBreed) {
     return named_array
 }
 
-document.getElementByTagName('body').innerHTML = <h1>exerciseDog("Joe", "terrier");</h1>
 
 
 
